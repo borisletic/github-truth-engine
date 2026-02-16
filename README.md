@@ -1,2 +1,2 @@
-# github-truth-engine
+# GitHub Truth Engine (GTE)
 Truth ? Hype
